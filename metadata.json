@@ -1,0 +1,5 @@
+{
+  "name": "BCI Control System",
+  "description": "A Brain–Computer Interface (BCI) Control System that demonstrates how brain signals can be interpreted and used to control external devices with real-time EEG visualization.",
+  "requestFramePermissions": []
+}
